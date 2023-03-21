@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 4,
+		"gitlens.remotes": [
+			{ "domain": "git.remote.sx", "type": "GitLab" }
+		],
+		"gitlab.showPipelineUpdateNotifications": true,
+		"gitlab.pipelineGitRemoteName": "origin"
+	}
+}
