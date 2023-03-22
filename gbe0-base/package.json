@@ -2,7 +2,7 @@
   "name": "gbe0-base",
   "displayName": "gbe0 Base Extension Pack",
   "description": "Base extension package for development containers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
     "AykutSarac.jsoncrack-vscode",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
     "foxundermoon.shell-format",
     "GitHub.copilot",
     "gitlab.gitlab-workflow",
