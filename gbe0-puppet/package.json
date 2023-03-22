@@ -1,0 +1,22 @@
+{
+  "name": "gbe0-puppet",
+  "displayName": "gbe0 Puppet Extension Pack",
+  "description": "Puppet extension package for development containers",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "puppet.puppet-vscode",
+    "rebornix.ruby",
+    "castwide.solargraph"
+  ]
+}

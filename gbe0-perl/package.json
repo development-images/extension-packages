@@ -1,0 +1,21 @@
+{
+  "name": "gbe0-perl",
+  "displayName": "gbe0 Perl Extension Pack",
+  "description": "Perl extension package for development containers",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "mortenhenriksen.perl-debug",
+    "d9705996.perl-toolbox"
+  ]
+}
