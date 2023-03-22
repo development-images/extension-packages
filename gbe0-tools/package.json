@@ -2,7 +2,7 @@
   "name": "gbe0-tool",
   "displayName": "gbe0 Tool Extension Pack",
   "description": "Tool extension package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
