@@ -17,7 +17,7 @@
   "extensionPack": [
     "be5invis.toml",
     "donjayamanne.python-environment-manager",
-    "jithurjacob.nbpreviewer"
+    "jithurjacob.nbpreviewer",
     "kevinrose.vsc-python-indent",
     "magicstack.magicpython",
     "matangover.mypy",
@@ -27,6 +27,6 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
-    "njpwerner.autodocstring",
+    "njpwerner.autodocstring"
   ]
 }
