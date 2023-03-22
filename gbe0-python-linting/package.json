@@ -1,7 +1,7 @@
 {
-  "name": "gbe0-tool",
-  "displayName": "gbe0 Tool Extension Pack",
-  "description": "Tool extension package",
+  "name": "gbe0-python-linting",
+  "displayName": "gbe0 Python Linting Extension Pack",
+  "description": "Python linting extension package for development containers",
   "version": "0.0.1",
   "publisher": "gbe0",
   "repository": {
@@ -15,7 +15,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "humao.rest-client",
-    "rangav.vscode-thunder-client"
+    "matangover.mypy",
+    "ms-python.flake8",
+    "ms-python.pylint"
   ]
 }

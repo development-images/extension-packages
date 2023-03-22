@@ -2,6 +2,10 @@
 
 Changelog for the Python extension pack.
 
+## [0.0.2] - 2023-03-23
+
+- Re-organise
+
 ## [0.0.1] - 2023-03-23
 
 - Initial release
