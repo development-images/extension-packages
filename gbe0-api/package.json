@@ -1,7 +1,7 @@
 {
-  "name": "gbe0-python-linting",
-  "displayName": "gbe0 Python Linting Extension Pack",
-  "description": "Python linting extension package for development containers",
+  "name": "gbe0-api",
+  "displayName": "gbe0 API Extension Pack",
+  "description": "Extension package that includes REST Client and Thunder Client for API development.",
   "version": "0.0.1",
   "publisher": "gbe0",
   "repository": {
@@ -15,8 +15,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "matangover.mypy",
-    "ms-python.flake8",
-    "ms-python.pylint"
+    "humao.rest-client",
+    "rangav.vscode-thunder-client"
   ]
 }

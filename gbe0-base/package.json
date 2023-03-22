@@ -1,8 +1,8 @@
 {
   "name": "gbe0-base",
   "displayName": "gbe0 Base Extension Pack",
-  "description": "Base extension package for development containers",
-  "version": "0.0.4",
+  "description": "Base extension package that are used for all types of environments. Common tools included are for formatting, markdown editing and more.",
+  "version": "0.0.5",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
@@ -16,8 +16,10 @@
   ],
   "extensionPack": [
     "aaron-bond.better-comments",
+    "alanwalk.markdown-toc",
     "alefragnani.bookmarks",
     "AykutSarac.jsoncrack-vscode",
+    "davidanson.vscode-markdownlint",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "formulahendry.code-runner",
@@ -31,9 +33,12 @@
     "PascalReitermann93.vscode-yaml-sort",
     "redhat.vscode-yaml",
     "shardulm94.trailing-spaces",
+    "shd101wyy.markdown-preview-enhanced",
+    "shuworks.vscode-table-formatter",
     "sonarsource.sonarlint-vscode",
     "streetsidesoftware.code-spell-checker",
     "timonwong.shellcheck",
-    "visualstudioexptteam.vscodeintellicode"
+    "visualstudioexptteam.vscodeintellicode",
+    "yzhang.markdown-all-in-one"
   ]
 }
