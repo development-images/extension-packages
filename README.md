@@ -34,12 +34,6 @@ Make sure that the personal access token is valid:
 vsce login gbe0
 ```
 
-Package the extension:
-
-```bash
-vsce package
-```
-
 Publish the extension:
 
 ```bash
