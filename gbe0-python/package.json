@@ -1,0 +1,32 @@
+{
+  "name": "gbe0-python",
+  "displayName": "gbe0 Python Extension Pack",
+  "description": "Python extension package for development containers",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "be5invis.toml",
+    "donjayamanne.python-environment-manager",
+    "jithurjacob.nbpreviewer"
+    "kevinrose.vsc-python-indent",
+    "magicstack.magicpython",
+    "matangover.mypy",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.pylint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "njpwerner.autodocstring",
+  ]
+}

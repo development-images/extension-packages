@@ -1,0 +1,23 @@
+{
+  "name": "gbe0-tool",
+  "displayName": "gbe0 Tool Extension Pack",
+  "description": "Tool extension package",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "AykutSarac.jsoncrack-vscode",
+    "humao.rest-client",
+    "rangav.vscode-thunder-client",
+    "sonarsource.sonarlint-vscode"
+  ]
+}

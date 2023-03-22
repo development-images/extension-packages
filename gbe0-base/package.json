@@ -2,7 +2,7 @@
   "name": "gbe0-base",
   "displayName": "gbe0 Base Extension Pack",
   "description": "Base extension package for development containers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
@@ -28,11 +28,13 @@
     "mechatroner.rainbow-csv",
     "ms-azuretools.vscode-docker",
     "oderwat.indent-rainbow",
+    "PascalReitermann93.vscode-yaml-sort",
     "redhat.vscode-yaml",
     "shardulm94.trailing-spaces",
     "shd101wyy.markdown-preview-enhanced",
     "shuworks.vscode-table-formatter",
     "streetsidesoftware.code-spell-checker",
+    "timonwong.shellcheck",
     "visualstudioexptteam.vscodeintellicode",
     "yzhang.markdown-all-in-one"
   ]
