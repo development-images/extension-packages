@@ -1,0 +1,21 @@
+{
+  "name": "gbe0-ansible",
+  "displayName": "gbe0 Ansible Extension Pack",
+  "description": "Extension package for development of Ansible playbooks/roles.",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "redhat.ansible",
+    "wholroyd.jinja"
+  ]
+}
