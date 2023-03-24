@@ -1,3 +1,3 @@
-# gbe0-base README
+# gbe0-api README
 
-Base extension pack for use with development containers.
+API extension pack for use with development containers.

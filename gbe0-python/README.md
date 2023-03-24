@@ -1,3 +1,3 @@
-# gbe0-base README
+# gbe0-python README
 
-Base extension pack for use with development containers.
+Python extension pack for use with development containers.

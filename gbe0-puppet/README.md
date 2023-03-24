@@ -1,3 +1,3 @@
-# gbe0-base README
+# gbe0-puppet README
 
-Base extension pack for use with development containers.
+Puppet extension pack for use with development containers.

@@ -1,3 +1,3 @@
-# gbe0-base README
+# gbe0-perl README
 
-Base extension pack for use with development containers.
+Perl extension pack for use with development containers.
