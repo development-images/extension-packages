@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or the definition README at
 // https://github.com/microsoft/vscode-dev-containers/tree/master/containers/alpine-3.10-git
 {
-  "name": "VS Code Extension Packages Development Environment",
+  "name": "VS Code Extension Pack Environment",
 
   // Load the docker-compose file to bring the services up
   "dockerComposeFile": [
@@ -47,44 +47,7 @@
 
       // Install dev container extensions
       "extensions": [
-        // Better Comments
-        "aaron-bond.better-comments",
-        // Bookmarks
-        "alefragnani.bookmarks",
-        // Code Spell
-        "streetsidesoftware.code-spell-checker",
-        // Docker
-        "ms-azuretools.vscode-docker",
-        // GitLens
-        "eamodio.gitlens",
-        // GitLab Workflow
-        "gitlab.gitlab-workflow",
-        // GitHub Co Pilot
-        "GitHub.copilot",
-        // Indent rainbow
-        "oderwat.indent-rainbow",
-        // Markdown All in One
-        "yzhang.markdown-all-in-one",
-        // Markdown Preview Enhanced
-        "shd101wyy.markdown-preview-enhanced",
-        // Markdown TOC
-        "alanwalk.markdown-toc",
-        // markdownlint
-        "davidanson.vscode-markdownlint",
-        // Microsoft Intellicode
-        "visualstudioexptteam.vscodeintellicode",
-        // Prettier code formatter
-        "esbenp.prettier-vscode",
-        // Shellcheck
-        "timonwong.shellcheck",
-        // Shell format
-        "foxundermoon.shell-format",
-        // Table Formatter
-        "shuworks.vscode-table-formatter",
-        // Todo Tree
-        "gruntfuggly.todo-tree",
-        // Trailing spaces
-        "shardulm94.trailing-spaces"
+        "gbe0.gbe0-base"
       ]
     }
   }
