@@ -1,8 +1,8 @@
 {
   "name": "gbe0-python",
   "displayName": "gbe0 Python Extension Pack",
-  "description": "Python extension package including linting tools, Jupyter notebook tools and more.",
-  "version": "0.0.3",
+  "description": "Python extension package including Jupyter notebook tools and more.",
+  "version": "0.0.4",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
@@ -20,10 +20,7 @@
     "jithurjacob.nbpreviewer",
     "kevinrose.vsc-python-indent",
     "magicstack.magicpython",
-    "matangover.mypy",
-    "ms-python.flake8",
     "ms-python.isort",
-    "ms-python.pylint",
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
