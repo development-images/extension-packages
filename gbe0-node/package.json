@@ -1,0 +1,22 @@
+{
+  "name": "gbe0-node",
+  "displayName": "gbe0 Node Extension Pack",
+  "description": "Extension package for development of Node projects.",
+  "version": "0.0.1",
+  "publisher": "gbe0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/development-images/extension-packages"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "redhat.fabric8-analytics"
+  ]
+}
