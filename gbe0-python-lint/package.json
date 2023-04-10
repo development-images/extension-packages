@@ -2,7 +2,7 @@
   "name": "gbe0-python-lint",
   "displayName": "gbe0 Python Linting Extension Pack",
   "description": "Python linting tool extension package (flake8, mypy and more).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gbe0",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "charliermarsh.ruff",
     "matangover.mypy",
     "ms-python.flake8",
     "ms-python.pylint"
